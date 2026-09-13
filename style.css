@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-bar{
+    display: flex;
+    background-color: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    height: 80px;
+}
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+ul a{
+    text-decoration: none;
+    color: black;
+}
+span p{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.nav-icons i{
+    margin-top: 30px;
+    margin-left: 15px;
+    color: black;
+}
+.background-image img{
+    width: 100%;
+}
+.background-image h2{
+    position: absolute;
+    top: 400px;
+    left: 480px;
+    font-size: 70px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background-image p{
+    position: absolute;
+    top: 650px;
+    left: 480px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background-image button{
+    position: absolute;
+    top: 750px;
+    left: 600px;
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    width: 150px;
+    height: 60px;
+}
+.shopsec1 img{
+    width: 400px;
+    height: 470px;
+    margin-top: 80px;
+    
+}
+.heading h2{
+    margin-top: 20px;
+}
+.shopsec2 img{
+    width: 400px;
+    height: 470px;
+    margin-top: 80px;
+}
+  
+.shop-catogary{
+    display: flex;
+}
+.shop-catogary img{
+    margin-left: 20px;
+}
+.shopsec3 img{
+    width: 400px;
+    height: 470px;
+    margin-top: 80px;
+}
+.arrival1 img{
+    width: 280px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.arrival2 img{
+    width: 280px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.new-arrivals{
+    display: flex;
+    gap: 20px;
+}
+.new-arrivals h2{
+    margin-top: 30px;
+}
+.extra h2{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.arrival3 img{
+    width: 280px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.arrival4 img{
+    width: 280px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
