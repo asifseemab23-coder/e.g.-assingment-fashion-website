@@ -11,6 +11,10 @@
     align-items: center;
     height: 35px;
 }
+header ul a:hover{
+    color:red;
+    background-color:grey;
+}
 nav{
     display: flex;
     justify-content: space-around;
@@ -23,6 +27,8 @@ ul{
     list-style: none;
     justify-content: center;
     align-items: center;
+    padding:20px;
+    border-radius:20px;
 }
 ul a{
     text-decoration: none;
