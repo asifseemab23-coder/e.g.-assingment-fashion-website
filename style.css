@@ -11,7 +11,7 @@
     align-items: center;
     height: 35px;
 }
-header ul a:hover{
+header ul a li:hover{
     color:red;
     background-color:grey;
 }
